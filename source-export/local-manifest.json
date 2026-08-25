@@ -1,0 +1,1099 @@
+{
+  "generatedAt": "2026-07-31T21:24:01.938Z",
+  "source": "https://mklebedev.ru/",
+  "downloaded": [
+    {
+      "url": "https://thb.tildacdn.com/tild3937-6166-4364-a161-306438373036/-/resize/504x/Frame_1000000849.png",
+      "localUrl": "/source-export/assets/fccdb71871597737.png",
+      "bytes": 196951,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6639-3437-4630-a166-353835373236/Frame_1000001042.png",
+      "localUrl": "/source-export/assets/faa99f1e848c1a09.png",
+      "bytes": 2080,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js",
+      "localUrl": "/source-export/assets/3087985932aea10c.js",
+      "bytes": 1918,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://static.tildacdn.com/css/tilda-grid-3.0.min.css",
+      "localUrl": "/source-export/assets/d329e63da9147b9d.css",
+      "bytes": 4514,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://static.tildacdn.com/ws/project12249499/tilda-blocks-page63526265.min.css?t=1748951665",
+      "localUrl": "/source-export/assets/bfaf8ce275fa608b.css",
+      "bytes": 33357,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://static.tildacdn.com/css/tilda-animation-2.0.min.css",
+      "localUrl": "/source-export/assets/0004f3d40931ea96.css",
+      "bytes": 2679,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://static.tildacdn.com/css/tilda-popup-1.1.min.css",
+      "localUrl": "/source-export/assets/6bbcb1304e1fa40b.css",
+      "bytes": 1724,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://static.tildacdn.com/css/tilda-forms-1.0.min.css",
+      "localUrl": "/source-export/assets/fa470f65bb7f659a.css",
+      "bytes": 46855,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://static.tildacdn.com/css/tilda-slds-1.4.min.css",
+      "localUrl": "/source-export/assets/e4e72356dfc69a1c.css",
+      "bytes": 9882,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://static.tildacdn.com/css/tilda-zero-gallery-1.0.min.css",
+      "localUrl": "/source-export/assets/3b8c2eccae7419a6.css",
+      "bytes": 4772,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js",
+      "localUrl": "/source-export/assets/10c37ace633e348c.js",
+      "bytes": 185641,
+      "contentType": "application/javascript; charset=utf8"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-scripts-3.0.min.js",
+      "localUrl": "/source-export/assets/650635a9ccc1b519.js",
+      "bytes": 23374,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://static.tildacdn.com/ws/project12249499/tilda-blocks-page63526265.min.js?t=1748951665",
+      "localUrl": "/source-export/assets/99469913cd884b6b.js",
+      "bytes": 41523,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js",
+      "localUrl": "/source-export/assets/4e3898e93c11e9b6.js",
+      "bytes": 20315,
+      "contentType": "application/javascript; charset=utf8"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-animation-2.0.min.js",
+      "localUrl": "/source-export/assets/65742bf27653cb27.js",
+      "bytes": 35449,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-zero-1.1.min.js",
+      "localUrl": "/source-export/assets/40d3ef7bfcf30dd9.js",
+      "bytes": 45466,
+      "contentType": "application/javascript; charset=utf8"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-popup-1.0.min.js",
+      "localUrl": "/source-export/assets/a7c681a43747995f.js",
+      "bytes": 3366,
+      "contentType": "application/javascript; charset=utf8"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-forms-1.0.min.js",
+      "localUrl": "/source-export/assets/b7b4c8ea3c83208d.js",
+      "bytes": 101695,
+      "contentType": "application/javascript; charset=utf8"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-menu-1.0.min.js",
+      "localUrl": "/source-export/assets/4809ab337c8e7a76.js",
+      "bytes": 11414,
+      "contentType": "application/javascript; charset=utf8"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-slds-1.4.min.js",
+      "localUrl": "/source-export/assets/b25aa137604795e3.js",
+      "bytes": 40121,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-zero-gallery-1.0.min.js",
+      "localUrl": "/source-export/assets/177b3ec71125a889.js",
+      "bytes": 32518,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/hammer.min.js",
+      "localUrl": "/source-export/assets/a434a3634280222a.js",
+      "bytes": 20726,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-zero-forms-1.0.min.js",
+      "localUrl": "/source-export/assets/0be8cca68d1aad5b.js",
+      "bytes": 72757,
+      "contentType": "application/javascript; charset=utf8"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-animation-ext-1.0.min.js",
+      "localUrl": "/source-export/assets/f212b7b8f1d6652f.js",
+      "bytes": 28675,
+      "contentType": "application/javascript; charset=utf8"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js",
+      "localUrl": "/source-export/assets/a888ad3305d15e47.js",
+      "bytes": 44891,
+      "contentType": "application/javascript; charset=utf8"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js",
+      "localUrl": "/source-export/assets/8f3866c30eab617c.js",
+      "bytes": 7889,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js",
+      "localUrl": "/source-export/assets/1a400eea1c77a822.js",
+      "bytes": 1879,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-events-1.0.min.js",
+      "localUrl": "/source-export/assets/47298d458f5e125b.js",
+      "bytes": 13439,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://cdn.envybox.io/widget/cbk.css",
+      "localUrl": "/source-export/assets/11a7375adf1f1239.css",
+      "bytes": 238101,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://cdn.envybox.io/widget/cbk.js?wcb_code=2accbef1e4f37ddf5c4b3f8d4f6a697d",
+      "localUrl": "/source-export/assets/7be78e4bf2e85eb4.js",
+      "bytes": 6608,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3064-3333-4335-b861-653032666432/-/resize/20x/1.png",
+      "localUrl": "/source-export/assets/73bb1906ff01a514.png",
+      "bytes": 875,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3064-3333-4335-b861-653032666432/1.png",
+      "localUrl": "/source-export/assets/7fb031e46a4cf511.png",
+      "bytes": 1901001,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3164-3034-4136-a137-396536303437/megaphone-dynamic-cl.png",
+      "localUrl": "/source-export/assets/d406e23646b5c8b2.png",
+      "bytes": 19015,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3164-3034-4136-a137-396536303437/-/resize/20x/megaphone-dynamic-cl.png",
+      "localUrl": "/source-export/assets/697fd5f2931b6bd4.png",
+      "bytes": 859,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3230-3031-4636-a464-333838383230/Cloud_10_4.png",
+      "localUrl": "/source-export/assets/cbf2987c13508984.png",
+      "bytes": 111851,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3230-3031-4636-a464-333838383230/-/resize/20x/Cloud_10_4.png",
+      "localUrl": "/source-export/assets/636a2ef18c4300ad.png",
+      "bytes": 453,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3438-3130-4138-b334-306163666566/Group_49288.png",
+      "localUrl": "/source-export/assets/5e8a4cd29aefb8e0.png",
+      "bytes": 26813,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3438-3130-4138-b334-306163666566/-/resize/20x/Group_49288.png",
+      "localUrl": "/source-export/assets/59885153cb54d4b8.png",
+      "bytes": 516,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3265-3234-4265-a338-633861393466/Group_49287.png",
+      "localUrl": "/source-export/assets/92c09c25da018bd3.png",
+      "bytes": 28915,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3265-3234-4265-a338-633861393466/-/resize/20x/Group_49287.png",
+      "localUrl": "/source-export/assets/eacf4dbc31ccb614.png",
+      "bytes": 516,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6531-6261-4135-b262-303163393630/Group_49286.png",
+      "localUrl": "/source-export/assets/0f458a22696e9d3d.png",
+      "bytes": 27187,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6531-6261-4135-b262-303163393630/-/resize/20x/Group_49286.png",
+      "localUrl": "/source-export/assets/7c48a7ad84860553.png",
+      "bytes": 596,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6635-3464-4838-b261-633764313935/Cloud_10_3.png",
+      "localUrl": "/source-export/assets/12b26fba243c5e4b.png",
+      "bytes": 112927,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6635-3464-4838-b261-633764313935/-/resize/20x/Cloud_10_3.png",
+      "localUrl": "/source-export/assets/eb9242006fb8f885.png",
+      "bytes": 480,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6536-3933-4661-b034-306662643639/Group_65_1.png",
+      "localUrl": "/source-export/assets/c8a82f218076cae1.png",
+      "bytes": 404063,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6536-3933-4661-b034-306662643639/-/resize/20x/Group_65_1.png",
+      "localUrl": "/source-export/assets/dbdf982bd4915c4c.png",
+      "bytes": 994,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6363-6233-4231-a466-376138663737/photo.png",
+      "localUrl": "/source-export/assets/e664bfa5fb5f5776.png",
+      "bytes": 100510,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6363-6233-4231-a466-376138663737/-/resize/20x/photo.png",
+      "localUrl": "/source-export/assets/ef78aaae19e8cb00.png",
+      "bytes": 701,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3437-6365-4530-b039-656266353834/2.png",
+      "localUrl": "/source-export/assets/33221e2e450f0133.png",
+      "bytes": 6060,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3437-6365-4530-b039-656266353834/-/resize/20x/2.png",
+      "localUrl": "/source-export/assets/ad387f0555346584.png",
+      "bytes": 709,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3138-6361-4539-a433-326435653332/logos_telegram.png",
+      "localUrl": "/source-export/assets/d926ddbb26a890e5.png",
+      "bytes": 1391,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3138-6361-4539-a433-326435653332/-/resize/20x/logos_telegram.png",
+      "localUrl": "/source-export/assets/7ecbbb0cbecab3bc.png",
+      "bytes": 1185,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3135-3761-4661-b665-313832616535/Group_53.png",
+      "localUrl": "/source-export/assets/b49f1ef1b2526687.png",
+      "bytes": 32758,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3135-3761-4661-b665-313832616535/-/resize/20x/Group_53.png",
+      "localUrl": "/source-export/assets/55cf2773ab88d9a1.png",
+      "bytes": 1297,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3765-3332-4139-b465-393136643032/Group_52.png",
+      "localUrl": "/source-export/assets/9fa758de87fb0722.png",
+      "bytes": 48041,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3765-3332-4139-b465-393136643032/-/resize/20x/Group_52.png",
+      "localUrl": "/source-export/assets/617c4e4cd764adba.png",
+      "bytes": 947,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6464-3838-4366-b137-356538363061/Group_54.png",
+      "localUrl": "/source-export/assets/9d9906a4ce7a61a2.png",
+      "bytes": 29916,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6464-3838-4366-b137-356538363061/-/resize/20x/Group_54.png",
+      "localUrl": "/source-export/assets/ffe933388c5cdc3a.png",
+      "bytes": 1248,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3432-3434-4165-a162-373530393464/Group_48087.png",
+      "localUrl": "/source-export/assets/6f11f872ecf724d9.png",
+      "bytes": 140,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3432-3434-4165-a162-373530393464/-/resize/20x/Group_48087.png",
+      "localUrl": "/source-export/assets/bd5f6524caa4cc32.png",
+      "bytes": 409,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6363-3938-4462-a633-343531623034/Group_6.png",
+      "localUrl": "/source-export/assets/02ce0f4068e06fe4.png",
+      "bytes": 1530,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6363-3938-4462-a633-343531623034/-/resize/20x/Group_6.png",
+      "localUrl": "/source-export/assets/463b9f1a4a86c2d9.png",
+      "bytes": 1221,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3639-6534-4333-a633-333231393566/image_8.png",
+      "localUrl": "/source-export/assets/a7318e070c851ee4.png",
+      "bytes": 348768,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3639-6534-4333-a633-333231393566/-/resize/20x/image_8.png",
+      "localUrl": "/source-export/assets/583b1405787e0f6d.png",
+      "bytes": 1807,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3566-3631-4265-a131-613730333761/image_11.png",
+      "localUrl": "/source-export/assets/545447d26c4d354c.png",
+      "bytes": 69111,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3566-3631-4265-a131-613730333761/-/resize/20x/image_11.png",
+      "localUrl": "/source-export/assets/ef8865d650f56781.png",
+      "bytes": 1260,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3731-3564-4738-b938-373066626466/Vector.png",
+      "localUrl": "/source-export/assets/6c35f280f0067155.png",
+      "bytes": 831,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3731-3564-4738-b938-373066626466/-/resize/20x/Vector.png",
+      "localUrl": "/source-export/assets/f5d9154b37ff3611.png",
+      "bytes": 759,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6463-3838-4363-b363-336430323962/Vector-1.png",
+      "localUrl": "/source-export/assets/054cc884499f05ab.png",
+      "bytes": 894,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6463-3838-4363-b363-336430323962/-/resize/20x/Vector-1.png",
+      "localUrl": "/source-export/assets/129dcf329bd578d8.png",
+      "bytes": 627,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6432-3764-4366-a566-616639373833/Vector-2.png",
+      "localUrl": "/source-export/assets/dc83eb94e23d20b9.png",
+      "bytes": 706,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6432-3764-4366-a566-616639373833/-/resize/20x/Vector-2.png",
+      "localUrl": "/source-export/assets/a8e659f78d2fd51e.png",
+      "bytes": 777,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3130-3439-4936-b930-353531313236/Group.png",
+      "localUrl": "/source-export/assets/046e1d8883b62839.png",
+      "bytes": 779,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3130-3439-4936-b930-353531313236/-/resize/20x/Group.png",
+      "localUrl": "/source-export/assets/69f905966195a40c.png",
+      "bytes": 637,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3536-3439-4336-b661-343065653530/Vector-3.png",
+      "localUrl": "/source-export/assets/38814730b2126812.png",
+      "bytes": 548,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3536-3439-4336-b661-343065653530/-/resize/20x/Vector-3.png",
+      "localUrl": "/source-export/assets/6110757fad1521db.png",
+      "bytes": 723,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6566-6666-4236-a165-313032643665/Group_18.png",
+      "localUrl": "/source-export/assets/dbc713478338784d.png",
+      "bytes": 699,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6566-6666-4236-a165-313032643665/-/resize/20x/Group_18.png",
+      "localUrl": "/source-export/assets/1494223ea6838afb.png",
+      "bytes": 711,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3630-3930-4035-b036-646336313561/Group_19.png",
+      "localUrl": "/source-export/assets/a8b353986b29c0d3.png",
+      "bytes": 652,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3630-3930-4035-b036-646336313561/-/resize/20x/Group_19.png",
+      "localUrl": "/source-export/assets/9331622e604015ed.png",
+      "bytes": 706,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3838-6534-4130-b830-396531356461/image_9.png",
+      "localUrl": "/source-export/assets/fc90b247c06f45d0.png",
+      "bytes": 64897,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3838-6534-4130-b830-396531356461/-/resize/20x/image_9.png",
+      "localUrl": "/source-export/assets/1ec14767a035a79e.png",
+      "bytes": 1266,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6464-6161-4564-a464-343762326465/-/resize/20x/Rectangle_23.png",
+      "localUrl": "/source-export/assets/4bd641492d121b2f.png",
+      "bytes": 604,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6464-6161-4564-a464-343762326465/Rectangle_23.png",
+      "localUrl": "/source-export/assets/48c4a74fda73a575.png",
+      "bytes": 386601,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6437-3566-4666-b663-396161636331/Cloud_10_9.png",
+      "localUrl": "/source-export/assets/137adb7d17e55333.png",
+      "bytes": 241983,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6437-3566-4666-b663-396161636331/-/resize/20x/Cloud_10_9.png",
+      "localUrl": "/source-export/assets/d28e3f0ed55d51af.png",
+      "bytes": 522,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3939-6337-4562-b934-656630373532/image_1_25-Photoroom.png",
+      "localUrl": "/source-export/assets/9e5ec6d8f92f2013.png",
+      "bytes": 77574,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3939-6337-4562-b934-656630373532/-/resize/20x/image_1_25-Photoroom.png",
+      "localUrl": "/source-export/assets/a88c6b5376adb587.png",
+      "bytes": 1271,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6431-3231-4237-a637-373061336635/Group_49272.png",
+      "localUrl": "/source-export/assets/8b079ed44e0fe20d.png",
+      "bytes": 98704,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6431-3231-4237-a637-373061336635/-/resize/20x/Group_49272.png",
+      "localUrl": "/source-export/assets/d154838a18762625.png",
+      "bytes": 657,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3936-3762-4261-a362-326533393437/Group_76.png",
+      "localUrl": "/source-export/assets/b793172fb682e918.png",
+      "bytes": 1798382,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3463-3337-4038-b831-383031663331/Group_77.png",
+      "localUrl": "/source-export/assets/794af74ee8b1c8c0.png",
+      "bytes": 1933929,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6536-3061-4134-b530-353734383839/Group_78.png",
+      "localUrl": "/source-export/assets/9cea74988eb634f5.png",
+      "bytes": 1419927,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3132-3933-4337-b233-373635326638/Group_79.png",
+      "localUrl": "/source-export/assets/9aef7a5a5b32c101.png",
+      "bytes": 1681493,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3863-3364-4138-a437-313866343833/Group_49289.png",
+      "localUrl": "/source-export/assets/ea89617bcab39662.png",
+      "bytes": 920305,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6131-6165-4637-b464-343332383330/Group_49291.png",
+      "localUrl": "/source-export/assets/2098d0f561cbcfc7.png",
+      "bytes": 3133095,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3234-3037-4161-b861-386536393339/Group_49292.png",
+      "localUrl": "/source-export/assets/6f789bf1478117b7.png",
+      "bytes": 2306674,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3461-6532-4564-b765-396339363937/Group_49293.png",
+      "localUrl": "/source-export/assets/83d8dcdd3567652b.png",
+      "bytes": 2745559,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3333-3036-4136-b938-633339666463/Group_49294.png",
+      "localUrl": "/source-export/assets/992725b84956fb42.png",
+      "bytes": 2193959,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6131-3265-4266-a236-386563643063/image_12.png",
+      "localUrl": "/source-export/assets/6fd09edf46267fe9.png",
+      "bytes": 225738,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6131-3265-4266-a236-386563643063/-/resize/20x/image_12.png",
+      "localUrl": "/source-export/assets/bcf7a36294a85adc.png",
+      "bytes": 1393,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6538-3237-4139-b735-636132303963/Group_84.png",
+      "localUrl": "/source-export/assets/9cf095e2b0904cb7.png",
+      "bytes": 85956,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6538-3237-4139-b735-636132303963/-/resize/20x/Group_84.png",
+      "localUrl": "/source-export/assets/65dc742d9269007c.png",
+      "bytes": 696,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3634-3536-4764-b039-636135613766/telegram-cloud-photo.png",
+      "localUrl": "/source-export/assets/00eb0ac98407e2e7.png",
+      "bytes": 234184,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3634-3536-4764-b039-636135613766/-/resize/20x/telegram-cloud-photo.png",
+      "localUrl": "/source-export/assets/ab66b66dbea0ab59.png",
+      "bytes": 1361,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3139-6337-4836-a365-393937653665/image_14.png",
+      "localUrl": "/source-export/assets/1a1ae46c9f464aa8.png",
+      "bytes": 160956,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3139-6337-4836-a365-393937653665/-/resize/20x/image_14.png",
+      "localUrl": "/source-export/assets/7791cc2663466ff0.png",
+      "bytes": 1288,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6333-3263-4233-b334-356333663631/image_13.png",
+      "localUrl": "/source-export/assets/47ec709f1dcbc6eb.png",
+      "bytes": 192175,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6333-3263-4233-b334-356333663631/-/resize/20x/image_13.png",
+      "localUrl": "/source-export/assets/f2322e9ac1bfdde5.png",
+      "bytes": 1429,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3865-6532-4437-a339-336466383837/-/resize/20x/Rectangle_33.png",
+      "localUrl": "/source-export/assets/5ea8358c940ab853.png",
+      "bytes": 582,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3865-6532-4437-a339-336466383837/Rectangle_33.png",
+      "localUrl": "/source-export/assets/29d5e04e884727aa.png",
+      "bytes": 317791,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6435-6132-4332-b630-613430346631/image_-_2024-06-19T1.png",
+      "localUrl": "/source-export/assets/22910d45925e6dd5.png",
+      "bytes": 1016770,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6435-6132-4332-b630-613430346631/-/resize/20x/image_-_2024-06-19T1.png",
+      "localUrl": "/source-export/assets/c505a6f4361e098f.png",
+      "bytes": 868,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3464-3331-4931-a262-633762643539/Ellipse_488.png",
+      "localUrl": "/source-export/assets/a8af4e754f98229e.png",
+      "bytes": 7132,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3464-3331-4931-a262-633762643539/-/resize/20x/Ellipse_488.png",
+      "localUrl": "/source-export/assets/e7b1ab3b174d4a03.png",
+      "bytes": 456,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6364-6137-4734-b639-363135373938/Ellipse_487.png",
+      "localUrl": "/source-export/assets/c11b8cbb81a0c0fd.png",
+      "bytes": 1273,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6364-6137-4734-b639-363135373938/-/resize/20x/Ellipse_487.png",
+      "localUrl": "/source-export/assets/14576b6571c66642.png",
+      "bytes": 778,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6362-3963-4265-b638-643235663334/Black-Friday-Tips-Ge.png",
+      "localUrl": "/source-export/assets/9f24df8d08929ff1.png",
+      "bytes": 1368271,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6362-3963-4265-b638-643235663334/-/resize/20x/Black-Friday-Tips-Ge.png",
+      "localUrl": "/source-export/assets/b6032d50b43b4820.png",
+      "bytes": 3299,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3630-3632-4864-b335-393432393432/Ellipse_487.png",
+      "localUrl": "/source-export/assets/97a6fd7e0708f11e.png",
+      "bytes": 1273,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3630-3632-4864-b335-393432393432/-/resize/20x/Ellipse_487.png",
+      "localUrl": "/source-export/assets/64b85c0a69705882.png",
+      "bytes": 778,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6633-6233-4632-b965-643538333162/image_108.png",
+      "localUrl": "/source-export/assets/228781cadc58a35e.png",
+      "bytes": 148851,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6633-6233-4632-b965-643538333162/-/resize/20x/image_108.png",
+      "localUrl": "/source-export/assets/7f830f5dea969639.png",
+      "bytes": 994,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6530-3434-4530-b532-653161303364/04d2df977846aa25b58a.png",
+      "localUrl": "/source-export/assets/7ec1103582b5ded7.png",
+      "bytes": 582533,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6530-3434-4530-b532-653161303364/-/resize/20x/04d2df977846aa25b58a.png",
+      "localUrl": "/source-export/assets/da7ae78e039c0df7.png",
+      "bytes": 1038,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6434-6535-4532-b432-386161383433/fasonnye-elementy.png",
+      "localUrl": "/source-export/assets/353b9dd2d7e9972b.png",
+      "bytes": 40933,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6434-6535-4532-b432-386161383433/-/resize/20x/fasonnye-elementy.png",
+      "localUrl": "/source-export/assets/f2adb15c77b1f0ba.png",
+      "bytes": 1174,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3263-3339-4361-b763-666238373361/image_110.png",
+      "localUrl": "/source-export/assets/0f82c87b22a7814c.png",
+      "bytes": 156784,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3263-3339-4361-b763-666238373361/-/resize/20x/image_110.png",
+      "localUrl": "/source-export/assets/3851c23b0f158b39.png",
+      "bytes": 2309,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3433-3335-4539-a437-363262346562/iStock_000017043807_.png",
+      "localUrl": "/source-export/assets/5f779453e75729ab.png",
+      "bytes": 1649984,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3433-3335-4539-a437-363262346562/-/resize/20x/iStock_000017043807_.png",
+      "localUrl": "/source-export/assets/aea433e3fed36154.png",
+      "bytes": 1304,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6531-3764-4137-b430-353664323066/fulstructuralframe2-.png",
+      "localUrl": "/source-export/assets/322cebb8eee45148.png",
+      "bytes": 325949,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6531-3764-4137-b430-353664323066/-/resize/20x/fulstructuralframe2-.png",
+      "localUrl": "/source-export/assets/c4cf8306754aade3.png",
+      "bytes": 834,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3563-3436-4234-a562-376537363236/image_109.png",
+      "localUrl": "/source-export/assets/72c24dc2f702c419.png",
+      "bytes": 88798,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3563-3436-4234-a562-376537363236/-/resize/20x/image_109.png",
+      "localUrl": "/source-export/assets/b70f4e0a63a4cb5d.png",
+      "bytes": 1399,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6134-6334-4362-b535-633465313066/phone-ringing-dynami.png",
+      "localUrl": "/source-export/assets/e19d7b7ac6690382.png",
+      "bytes": 20627,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6134-6334-4362-b535-633465313066/-/resize/20x/phone-ringing-dynami.png",
+      "localUrl": "/source-export/assets/1f83e1f8d4b9002f.png",
+      "bytes": 1259,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3832-3764-4838-b431-656431396236/calculator-dynamic-c.png",
+      "localUrl": "/source-export/assets/7c66c958205bd4d5.png",
+      "bytes": 13203,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3832-3764-4838-b431-656431396236/-/resize/20x/calculator-dynamic-c.png",
+      "localUrl": "/source-export/assets/01b0c7dbf8171d3e.png",
+      "bytes": 815,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6339-3234-4532-b532-393530633339/file-text-dynamic-cl.png",
+      "localUrl": "/source-export/assets/560d905adc2ced94.png",
+      "bytes": 18515,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6339-3234-4532-b532-393530633339/-/resize/20x/file-text-dynamic-cl.png",
+      "localUrl": "/source-export/assets/26c2207115a1e207.png",
+      "bytes": 774,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3732-6333-4566-a435-373364326135/wallet-dynamic-clay.png",
+      "localUrl": "/source-export/assets/a1065451a93466ce.png",
+      "bytes": 15744,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3732-6333-4566-a435-373364326135/-/resize/20x/wallet-dynamic-clay.png",
+      "localUrl": "/source-export/assets/1f154300e2a70b0e.png",
+      "bytes": 847,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3532-6434-4433-b033-663230336366/flag-dynamic-clay.png",
+      "localUrl": "/source-export/assets/3bc32d4479bd25a0.png",
+      "bytes": 16797,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3532-6434-4433-b033-663230336366/-/resize/20x/flag-dynamic-clay.png",
+      "localUrl": "/source-export/assets/9dcddd9468d999f8.png",
+      "bytes": 837,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3035-3635-4439-b330-326230656630/Vector-1.png",
+      "localUrl": "/source-export/assets/a321607070e3fed7.png",
+      "bytes": 390,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3035-3635-4439-b330-326230656630/-/resize/20x/Vector-1.png",
+      "localUrl": "/source-export/assets/a14916963cdf974c.png",
+      "bytes": 1128,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6338-3438-4636-b136-376362363330/Vector.png",
+      "localUrl": "/source-export/assets/d320af85eeaf37bc.png",
+      "bytes": 370,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6338-3438-4636-b136-376362363330/-/resize/20x/Vector.png",
+      "localUrl": "/source-export/assets/73b961bfe6f0ff5e.png",
+      "bytes": 1075,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6265-3164-4766-a435-613338326233/Vector-2.png",
+      "localUrl": "/source-export/assets/7c9c32fbd583b79d.png",
+      "bytes": 399,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6265-3164-4766-a435-613338326233/-/resize/20x/Vector-2.png",
+      "localUrl": "/source-export/assets/a610413e2082c466.png",
+      "bytes": 1002,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3639-3138-4738-b935-323261373935/Leaves_Overlay_6.png",
+      "localUrl": "/source-export/assets/ca06eec98e50fe59.png",
+      "bytes": 295339,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3639-3138-4738-b935-323261373935/-/resize/20x/Leaves_Overlay_6.png",
+      "localUrl": "/source-export/assets/789402b32f0ed9db.png",
+      "bytes": 938,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3433-3532-4065-b463-333266653064/Rectangle_38.png",
+      "localUrl": "/source-export/assets/58b7b119272faf5b.png",
+      "bytes": 740635,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3433-3532-4065-b463-333266653064/-/resize/20x/Rectangle_38.png",
+      "localUrl": "/source-export/assets/b4634eedf73a382e.png",
+      "bytes": 998,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6630-3435-4132-b164-303935336266/Group_17.png",
+      "localUrl": "/source-export/assets/e882e28f90d37925.png",
+      "bytes": 604579,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6630-3435-4132-b164-303935336266/-/resize/20x/Group_17.png",
+      "localUrl": "/source-export/assets/fb7696f01226e946.png",
+      "bytes": 851,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6231-3038-4466-a233-313062303034/Group_49278.png",
+      "localUrl": "/source-export/assets/5c83b6545316e56e.png",
+      "bytes": 354320,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6231-3038-4466-a233-313062303034/-/resize/20x/Group_49278.png",
+      "localUrl": "/source-export/assets/3881a8ebb16e11fb.png",
+      "bytes": 1268,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3831-3065-4432-b632-613330303734/telegram-cloud-photo.png",
+      "localUrl": "/source-export/assets/f2f2f3141314b22e.png",
+      "bytes": 463383,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3831-3065-4432-b632-613330303734/-/resize/20x/telegram-cloud-photo.png",
+      "localUrl": "/source-export/assets/f1fd3ec28fbeb514.png",
+      "bytes": 1711,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3135-6134-4363-b632-323737613133/telegram-cloud-photo.png",
+      "localUrl": "/source-export/assets/7d05d87f231a980a.png",
+      "bytes": 213777,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3135-6134-4363-b632-323737613133/-/resize/20x/telegram-cloud-photo.png",
+      "localUrl": "/source-export/assets/9f465d4b8978f1c1.png",
+      "bytes": 1711,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3464-6564-4236-a239-396539656536/telegram-cloud-photo.png",
+      "localUrl": "/source-export/assets/e9d42685e7545820.png",
+      "bytes": 246493,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3464-6564-4236-a239-396539656536/-/resize/20x/telegram-cloud-photo.png",
+      "localUrl": "/source-export/assets/5dd6723b51a7f6ec.png",
+      "bytes": 1726,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6362-6164-4334-a635-366137313166/lea3.png",
+      "localUrl": "/source-export/assets/b1fe556e28b36f73.png",
+      "bytes": 75457,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild6362-6164-4334-a635-366137313166/-/resize/20x/lea3.png",
+      "localUrl": "/source-export/assets/15ad5eb0f870a98c.png",
+      "bytes": 929,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3937-6166-4364-a161-306438373036/-/empty/Frame_1000000849.png",
+      "localUrl": "/source-export/assets/d16eb76c1e5da4e2.png",
+      "bytes": 709,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3937-6166-4364-a161-306438373036/Frame_1000000849.png",
+      "localUrl": "/source-export/assets/0ac5f85b0436ead2.png",
+      "bytes": 212680,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-phone-mask-1.1.min.js",
+      "localUrl": "/source-export/assets/c71a9a5ce060e359.js",
+      "bytes": 39023,
+      "contentType": "application/javascript; charset=utf8"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3332-3636-4337-a566-633437643366/Group_49295.png",
+      "localUrl": "/source-export/assets/5eaec1ebbc28dbc9.png",
+      "bytes": 837,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://thb.tildacdn.com/tild3332-3636-4337-a566-633437643366/-/resize/20x/Group_49295.png",
+      "localUrl": "/source-export/assets/0388e29ef12c5c6b.png",
+      "bytes": 963,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/img/tildacopy.png",
+      "localUrl": "/source-export/assets/8a6cf562980a6337.png",
+      "bytes": 819,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-stat-1.0.min.js",
+      "localUrl": "/source-export/assets/2fbb77f844dd291f.js",
+      "bytes": 9690,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://static.tildacdn.com/css/tilda-zero-form-errorbox.min.css",
+      "localUrl": "/source-export/assets/01b5eb71d864a506.css",
+      "bytes": 1855,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://static.tildacdn.com/css/tilda-zero-form-horizontal.min.css",
+      "localUrl": "/source-export/assets/2f8aae7fe3edb751.css",
+      "bytes": 2006,
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-conditional-form-1.0.min.js",
+      "localUrl": "/source-export/assets/e3d5e37893e03b03.js",
+      "bytes": 19960,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://neo.tildacdn.com/js/tilda-fallback-advanced-1.0.min.js",
+      "localUrl": "/source-export/assets/66ed7885a5b49555.js",
+      "bytes": 1720,
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3032-6461-4435-b033-623961386161/Montserrat-Regular.woff",
+      "localUrl": "/source-export/assets/59f783b971bf008a.woff",
+      "bytes": 138600,
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6433-6366-4062-a130-323564666139/Montserrat-Medium.woff",
+      "localUrl": "/source-export/assets/aae71d03d2ca32d1.woff",
+      "bytes": 138516,
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3262-3230-4933-a434-313761353464/Akrobat-ExtraBold.woff",
+      "localUrl": "/source-export/assets/3419b572d6ee286e.woff",
+      "bytes": 39664,
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3437-3565-4365-a162-313330326363/Montserrat-Bold.woff",
+      "localUrl": "/source-export/assets/6f83f58cc35787e6.woff",
+      "bytes": 138900,
+      "contentType": "application/octet-stream"
+    }
+  ],
+  "failed": []
+}
