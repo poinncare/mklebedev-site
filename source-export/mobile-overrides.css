@@ -1,0 +1,83 @@
+/* Local-only mobile hardening for the captured Tilda page. */
+@media screen and (max-width: 639px) {
+  html,
+  body,
+  .t-body,
+  .t-records,
+  #allrecords {
+    width: 100%;
+    min-width: 0 !important;
+    max-width: 100%;
+    overflow-x: hidden !important;
+  }
+
+  .t-rec,
+  .t396,
+  .t396__artboard,
+  .t396__carrier,
+  .t396__filter {
+    max-width: 100vw;
+  }
+
+  .t396__artboard {
+    overflow: hidden;
+  }
+
+  .t396__carrier,
+  .t396__filter {
+    background-attachment: scroll !important;
+  }
+
+  /* Tilda forms must fit narrow screens and must not trigger iOS zoom. */
+  .t-form__inputsbox,
+  .t-form__inputsbox .t-input-group,
+  .t-form__inputsbox .t-input-block,
+  .t-form__inputsbox .t-input {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .t-input,
+  .t-input-subtitle,
+  .t-checkbox__label,
+  .t-radio__label {
+    font-size: 16px !important;
+  }
+
+  .t-popup[data-tooltip-hook="#popup:myform1"] {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .t-popup[data-tooltip-hook="#popup:myform1"] .t-popup__container,
+  .t-form-success-popup__wrapper {
+    left: 0 !important;
+    right: 0 !important;
+    width: 100vw !important;
+    max-width: 100vw !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .t-menu__container,
+  .t-menu__container .t-menu__list {
+    width: 100vw !important;
+    max-width: 100vw !important;
+  }
+
+}
+
+@media screen and (max-width: 479px) {
+  .t-btn,
+  .t-submit,
+  .t-form__submit,
+  .t-input-subtitle {
+    white-space: normal;
+  }
+
+  .t-btn,
+  .t-submit,
+  .t-form__submit {
+    max-width: calc(100vw - 20px);
+  }
+}
